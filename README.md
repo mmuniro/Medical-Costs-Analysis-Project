@@ -6,7 +6,7 @@ This report presents a comprehensive analysis of medical charges based on a data
 
 ## Dataset Overview
 
-- **Total Records**: 1,000 insurance policies
+- **Total Records**: 1,000 patient personal details
 - **Key Variables**: Age, Sex, BMI, Children, Smoker Status, Region, Charges
 
 ## Objectives:
