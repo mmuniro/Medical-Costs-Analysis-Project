@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report presents a comprehensive analysis of medical insurance charges based on a dataset of 1,000 insurance records. The analysis examines the relationship between insurance charges and various demographic and health factors including age, gender, BMI, number of children, smoking status, and geographic region.
+This report presents a comprehensive analysis of medical charges based on a dataset of 1,000 patient records. The analysis examines the relationship between medical charges and various demographic and health factors including age, gender, BMI, number of children, smoking status, and geographic region.
 
 ## Dataset Overview
 
