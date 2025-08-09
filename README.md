@@ -19,3 +19,4 @@ The purpose of the analysis is to analyze the effects of variables on the cost o
 - Does being a smoker impact their medical costs?
 - Which region has highest medical costs?
 
+## Analysis:
