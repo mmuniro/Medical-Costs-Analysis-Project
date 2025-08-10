@@ -89,3 +89,12 @@ This report presents an analysis of medical charges based on a dataset of 1,000 
 - Obese smokers have substantially higher charges than any other category
 - Non-obese non-smokers represent the lowest-cost group
 
+
+## Conclusion:
+
+1. **Smoking is the dominant cost driver** in medical charges
+2. **Obesity significantly increases medical costs**, especially when combined with smoking
+3. **Age remains a reliable predictor** of healthcare utilization and costs
+4. **Gender and family size have minimal impact** on individual medical charges
+5. **Regional variations exist** but are secondary to individual health factors
+6. **Combined risk factors** create multiplicative effects on medical costs
